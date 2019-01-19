@@ -1,12 +1,11 @@
-title: Parchment
-author: pro-panda
-subtitle: A minimal jekyll theme
+title: Rahul Bothra
+author: Rahul Bothra
 
 url: "https://www.pro-panda.tech"
-baseurl: "/parchment"
+baseurl: ""
 
-footer_url: "https://github.com/pro-panda"
-footer_text: "Theme by pro-panda"
+footer_url: "https://github.com/pro-panda/parchment"
+footer_text: "This blog uses parchment theme"
 
 profile-picture: assets/profile.jpg
 favicon_location: assets/favicon.ico
