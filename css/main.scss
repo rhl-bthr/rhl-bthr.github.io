@@ -4,6 +4,9 @@
 // Customization Variables
 
 $accent: #FF0F00;
+$sub-accent: #1b5a00;
+$sub-sub-accent: #002b72;
+
 $image-size: 150px;
 
 $max-width: 740px;
@@ -37,7 +40,21 @@ hr {
 }
 code {
     background-color: #d8e7ff;
-    color: #002b72;
+    color: $sub-sub-accent;
+}
+h2 {
+    margin-top: 35px;
+}
+h2:after {
+    content:' ';
+    display:block;
+    border:1px solid #020202;
+    border-radius:10px;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+    -webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+    -moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
 }
 
 // divs
@@ -164,17 +181,29 @@ code {
 	}
 }
 
+span.red {
+    color: $accent;
+}
+
+span.green {
+    color: $sub-accent;
+}
+span.blueh {
+    background-color: #d8e7ff;
+}
+
+
 //  typography
 
 .content {
     line-height: 1.5;
-    ol {
-        counter-reset: list;
+    ol > li:before {
+        position: absolute;
+        left: -30px;
+        color: $sub-sub-accent;
     }
     ol > li {
-        list-style-position: none;
         position: relative;
-        list-style: none;
         margin-top: 5px;
         margin-bottom: 5px;
     }
@@ -186,12 +215,6 @@ code {
     }
     ol {
         padding: 0 30px 0 30px;
-    }
-    ol > li:before {
-        content: "[" counter(list, decimal) "] ";
-        counter-increment: list;
-        position: absolute;
-        left: -30px;
     }
     blockquote {
         border-left: 5px solid #333333;

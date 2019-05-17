@@ -5,7 +5,7 @@ url: "https://pro-panda.github.io"
 baseurl: ""
 
 footer_url: "https://github.com/pro-panda/parchment"
-footer_text: "This blog uses parchment theme"
+footer_text: ""
 
 profile-picture: assets/profile.jpg
 favicon_location: assets/favicon.ico
