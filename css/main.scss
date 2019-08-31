@@ -81,17 +81,16 @@ h2:after {
 // Navbar
 
 #site-title {
-    font-size: 32px;
     color: #272727;
     display: inline-block;
 }
 .navbar {
-    padding: 50px 0 50px 0;
+    padding: 20px 0 20px 0;
 }
 .navbar-ul {
     display: inline-block;
     margin: 0;
-    padding: 5px 0 5px 0;
+    // padding: 5px 0 5px 0;
     margin-left: 20px;
 }
 .navbar-list {
@@ -156,7 +155,7 @@ h2:after {
 @media (max-width: 500px) {
 	.navbar {
 		text-align: center;
-		padding: 50px 0px 0px 0px;
+		padding: 20px 0px 0px 0px;
 	}
 	#site-title {
 		width: 100%;
