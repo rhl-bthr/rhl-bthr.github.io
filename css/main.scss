@@ -59,15 +59,12 @@ h2:after {
 
 // divs
 
-.alignable {
-    display: inline-block;
-}
 .pull-left {
-    @extend .alignable;
+    display: inline-block;
     float: left;
 }
 .pull-right {
-    @extend .alignable;
+    display: inline-block;
     float: right;
 }
 .container {
@@ -113,6 +110,7 @@ h2:after {
 }
 .post-snippet{
     max-width: 500px;
+    margin-bottom: 30px;
 }
 
 // pages
@@ -122,9 +120,11 @@ h2:after {
     font-size: xx-large;
     font-weight: bold;
     line-height: 2;
+    margin-top: 30px;
 }
 .page-subtitle{
     text-align: center;
+    margin-bottom: 15px;
 }
 
 
@@ -163,10 +163,8 @@ h2:after {
 		text-align: center;
 		width: 100%;
 	}
-	#navlist li.alignable {
-		display: inline-block;
-	}
 	#navlist li.pull-left {
+        display: inline-block;
 		float: none;
 	}
 	#navlist li.navbar-list {
