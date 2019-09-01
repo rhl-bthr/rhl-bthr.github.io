@@ -15,13 +15,7 @@ $small-width: 480px;
 
 // Basic
 
-html {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-}
 body {
-    margin: 0;
     font-family: "Inconsolata";
     height: 100%;
 }
@@ -60,19 +54,14 @@ h2:after {
 // divs
 
 .pull-left {
-    display: inline-block;
     float: left;
 }
 .pull-right {
-    display: inline-block;
     float: right;
 }
 .container {
     max-width: $max-width;
     margin: auto;
-}
-.wrapper {
-    min-height: 100%;
 }
 
 // Navbar
@@ -82,17 +71,17 @@ h2:after {
     display: inline-block;
 }
 .navbar {
+    max-width: $max-width;
     padding: 20px 0 20px 0;
+    margin: auto;
 }
 .navbar-ul {
     display: inline-block;
     margin: 0;
-    // padding: 5px 0 5px 0;
-    margin-left: 20px;
 }
 .navbar-list {
     list-style-type: none;
-    margin: 0 5px 0 10px;
+    margin: 0 5px 0 5px;
 }
 
 // index
@@ -101,12 +90,11 @@ h2:after {
     max-width: 500px;
     color: #272727;
     display: inline-block;
-    font-size: 30px;
+    font-size: 28px;
 }
 .post-details{
     @extend .pull-right;
     text-align: right;
-    margin-left: 20px;
 }
 .post-snippet{
     max-width: 500px;
@@ -117,59 +105,14 @@ h2:after {
 
 .page-title{
     text-align: center;
-    font-size: xx-large;
+    font-size: 30px;
     font-weight: bold;
-    line-height: 2;
+    line-height: 1.5;
     margin-top: 30px;
 }
 .page-subtitle{
     text-align: center;
     margin-bottom: 15px;
-}
-
-
-// Mobile
-
-@media (max-width: 800px) {
-    .container {
-        max-width: $med-width;
-        transition: 0.3s ease all;
-    }
-}
-
-@media (max-width: 650px) {
-    .container {
-        max-width: 83%;
-    }
-    .navbar-ul {
-        margin-top: 5px;
-    }
-}
-
-@media (max-width: 500px) {
-	.navbar {
-		text-align: center;
-		padding: 20px 0px 0px 0px;
-	}
-	#site-title {
-		width: 100%;
-		float: none;
-	}
-	#navlist {
-		padding: 10px 0 10px 0;
-		margin: 0;
-		display: block;
-		float: none;
-		text-align: center;
-		width: 100%;
-	}
-	#navlist li.pull-left {
-        display: inline-block;
-		float: none;
-	}
-	#navlist li.navbar-list {
-		margin: 0;
-	}
 }
 
 span.red {
@@ -224,15 +167,6 @@ span.blueh {
             padding: 0;
             margin: 0;
         }
-        @media (max-width: $small-width) {
-            img {
-                margin-top: -5px;
-            }
-        }
-    }
-    img {
-        text-align: center;
-        width: 100%;
     }
 }
 
