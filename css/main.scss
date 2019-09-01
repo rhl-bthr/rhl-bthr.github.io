@@ -90,9 +90,9 @@ h2:after {
     max-width: 500px;
     color: #272727;
 }
-.post-details{
-    @extend .pull-right;
-    text-align: right;
+.post-date{
+    padding-right: 30px;
+    display: inline-block;
 }
 
 // pages
