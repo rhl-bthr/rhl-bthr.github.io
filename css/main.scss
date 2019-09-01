@@ -89,16 +89,10 @@ h2:after {
 .post-title{
     max-width: 500px;
     color: #272727;
-    display: inline-block;
-    font-size: 28px;
 }
 .post-details{
     @extend .pull-right;
     text-align: right;
-}
-.post-snippet{
-    max-width: 500px;
-    margin-bottom: 30px;
 }
 
 // pages
