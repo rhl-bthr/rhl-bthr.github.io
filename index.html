@@ -3,7 +3,6 @@ layout: default
 homepage: true
 ---
 <br>
-<div class="small-title">My Posts</div>
 {% for post in site.posts %}
     <div class="post-date"><b>{{ post.date | date: "%d-%m-%Y" }}</b></div>
     <a href="{{site.baseurl}}{{ post.url }}" class="post-title">
