@@ -2,6 +2,7 @@
 layout: post
 title: Recruitment Drive experience at BITS
 tags: [BITS, Career]
+private: true
 ---
 
 ## Technical skills required
