@@ -4,6 +4,9 @@ layout: default
 
 <br>
 {% for post in site.posts %}
+    {% if post.private == true %}
+        {% continue %}
+    {% endif %}
     <div class="post-date"><b>{{ post.date | date: "%d-%m-%Y" }}</b></div>
     <a href="{{site.baseurl}}{{ post.url }}" class="post-title">
         {{ post.title }}
