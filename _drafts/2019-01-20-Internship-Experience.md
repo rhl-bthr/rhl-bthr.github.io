@@ -1,12 +1,8 @@
 ---
 layout: post
-title: My Internship Drive Experience
-snippet: I participated in the Campus Internship Drive at BITS Pilani in September '18. This post summarizes my experience and how can one prepare for it
+title: Recruitment Drive experience at BITS
 tags: [BITS, Career]
 ---
-> RP == Research project<br>
-TR == Technical round<br>
-STB == Specific to BITS
 
 ## Technical skills required
 ```
@@ -27,11 +23,11 @@ DSA >> OOP ~~ DBS > OS
 ## Preparing your resume
 Interviewers skim through your resume to understand your skills.
 Write points which showcase your technical skills (eg: coding
-projects, RP, past internships, TAships). Extra curricular
+projects, past internships, TAships). Extra curricular
 activities (clubs, sports, etc) don't matter.<br>
 Don't sugar coat; write things as they are. You might have a very small resume; Don't fret over it. Most
 companies don't care about your resume, unless they have a resume shortlisting round.<br>
-Here is a copy of my [current resume](https://pro-panda.github.io/resume.pdf).
+Here is a copy of my [old resume](../assets/old-resume.pdf).
 
 
 ## Coding Rounds
@@ -51,7 +47,7 @@ During my year, companies held their coding rounds on,
 Usually, solving 2 out of 3 questions can get you through the coding round,
 but it depends on the difficulty of questions.
 
-STB, don't rely on last minute revisions. We had 4 coding rounds for day-1, with no breaks.
+Specific to BITS, these rounds can get hectic. We had 4 coding rounds together for day-1, with no breaks.
 
 ## Interviews
 Typically, interviews start off with a brief discussion
@@ -62,9 +58,9 @@ For a DSA heavy question, state the time and space
 complexity of your solution. Then proceed to find a better
 solution, or prove why this is an efficient solution. 
 
-Some general guidelines,
- - Never lie in the interview.
- - Discuss, but don't argue. Don't clarify your mistakes.
+Some obvious guidelines,
+ - Never lie in the interview (in life as well xD).
+ - Don't clarify your mistakes. Improvise, Adapt, Overcome.
  - Don't ask questions like "What does your company do?". You
    should be knowing that if you are sitting for an interview
    with them.
@@ -76,15 +72,16 @@ Some general guidelines,
  - Interviewers appreciate if you are able to drive yourself
    while solving the question.
 
-\* STB, interview rounds can go till ~3 AM (starting
+\* Specific to BITS, interview rounds can go till ~3 AM (starting
    afternoon), and you might not be able to step out in between.
    Have some food supplies with you. Keep your phone charged.
 
-## Personal Experience
+## My Experience
 I gave coding rounds for 6 companies; Uber, D.E. Shaw,
 Microsoft, Arcesium, AppDynamics, Goldman Sachs. I got
 selected for the next round in Microsoft, Arcesium and
-AppDynamics.<br>
+AppDynamics. Most of the questions asked were straight
+from GeeksForGeeks and InterviewBit.<br>
 
 1. **Arcesium**
  - TR 1: 16 students called. My interview started with a
@@ -102,19 +99,20 @@ AppDynamics.<br>
  - TR 4: 4 students called. I was given 2 DSA questions to
    solve. I hurriedly tried to solve the first one and ended
    up taking too much time and attempts.
- - <span class="blueh">Result:</span> 2 students were finally
-   selected, I wasn't in them.
+ - <span class="blueh">Result:</span> 2 students were
+   selected, I wasn't in them. Probably due to poor performance
+   in TR 4.
 
 2. **AppDynamics**
- - TR 1: My resume was discussed (RP and GSoC). 1 DSA Question
+ - TR 1: My resume was discussed (Semester Project and GSoC). 1 DSA Question
    and one maths puzzle was given. Solved both.
  - TR 2: 1 DSA Question was given. Solved it.
- - <span class="blueh">Result:</span> 2 students were finally
-   selected, I wasn't in them. I'm not sure why. My guess is that
-   my GPA was lower than others
+ - <span class="blueh">Result:</span> 2 students were
+   selected, I wasn't in them. I'm not sure why. Maybe due to relative
+   performance.
 
 3. **Microsoft**
- - GSoC and RP was discussed in all three
+ - GSoC and Semester Project was discussed in all three
    rounds. All of them had 1 DSA question, which had to be written
    on paper in C.
  - TR 1: It was a simple question on matrix manipulation. Further
@@ -125,7 +123,7 @@ AppDynamics.<br>
    We went through two dry runs and my code didn't work in both of them.
  - TR 3: The question was to convert data stored in blocks of size X into
    blocks of size Y. I was able to solve the question and write the C code.
- - <span class="blueh">Result:</span> 12 students were finally
+ - <span class="blueh">Result:</span> 12 students were
    selected, I was in them.
 
 ## FAQs
