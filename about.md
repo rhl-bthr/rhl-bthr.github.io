@@ -23,27 +23,39 @@ and Google Code-In.
 
 
 ## Resrearch Interests & Projects
-I am interested in Networks, Operating Systems and Cloud Infrastucture.<br>
-Most of the projects I'm working in this domain are premature to talk about.
-Broadly, they revolve around SDN, P4, Linux TCP, and Julia.
+I am interested in Systems and Networking. Most of the projects I'm working on
+are premature to talk about. Broadly, they revolve around P4, Linux TCP, and
+Julia.
 
-Some of the fun stuff that I worked on in the past,
+Some of the other fun stuff that I worked on in the past,
  * Parchment - a Jekyll theme that this blog is built on
  * BOB - a chatbot to answer BITSians' queries
  * OASC - a variation of the Seam Carving algorithm
 
 
 ## Non-technical
-I like to play Frisbee. I sometimes try to sing, but I'm not good at it.
-I like to read about peoples' life experiences and challenges, since it broadens
-my views and allows me to validate (or modify) my life goals.
+I like to read comic strips and play Frisbee. I sometimes practice singing and
+making Dilbert strips, but I'm not good in either of them yet. I like reading
+others' life experiences since it helps in refining my goals and thought process.
 
 Personality traits:<br>
 I am an introvert, but I've been trying to change that so as to improve my
-interpersonal skills. I usually look at situations with a critical view - and
-tend to focus on flaws than appreciate the goodness. I have a constant fear of
-failing in what I do; and while it pushes me to work hard, I give up at times
-(I'm working on fixing that).
+interpersonal skills. I look at situations with a critical view, and tend to
+focus on flaws than appreciating the goodness. I have a constant fear of
+failing; and while it pushes me to work hard, I give up too quickly at times
+(I'm trying to improve this).
+
+
+## Goals
+Broad and long-term,
+ * Make ground-breaking impact in Networks and Systems, which should lead to an
+ improved quality of life for the society.
+ * Regularly build software which directly helps people around me in some form
+
+Words I hope to live by (derived from life events in an LRU queue),
+ * Work hard, so that you feel proud when you look back in life.
+ * Always hold your word, no matter what happens.
+ * Be kind and respect everyone, you don't know the battles they're fighting.
 
 
 ## The Skipped Breakpoint
@@ -62,7 +74,8 @@ I wrote in the past, or the blog theme. I expect this one to last.
 (at your own peril)
 
 Mail: rrbothra [at] gmail [dot] com<br>
-Linkedin: <a href="https://linkedin.com/in/pro-panda">https://linkedin.com/in/pro-panda</a>
+Linkedin:
+<a href="https://linkedin.com/in/pro-panda">https://linkedin.com/in/pro-panda</a>
 
 If you have any research projects which align with my interests, I'd be happy to
 discuss.
