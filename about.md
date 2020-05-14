@@ -49,9 +49,6 @@ Broad and long-term,
 
 
 ## The Skipped Breakpoint
-This site is built using GitHub Pages, source
-[here](https://github.com/pro-panda/pro-panda.github.io).
-
 The blog title came up when I was unable to root cause a bug even while using a
 debugger. I blog about what I'm learning / working on. I sometimes write about
 life experiences which had a fundamental impact on me.
