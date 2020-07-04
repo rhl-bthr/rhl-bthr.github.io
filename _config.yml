@@ -16,5 +16,5 @@ navbar:
    link: "about"
  - name: "Resume"
    link: "resume.pdf"
- - name: "CV"
-   link: "CV.pdf"
+#  - name: "CV"
+#    link: "CV.pdf"
