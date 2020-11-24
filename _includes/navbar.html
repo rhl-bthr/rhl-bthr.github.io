@@ -1,19 +1,19 @@
-<div class="navbar">
-    <a class="site-title" href="{{ site.url }}{{ site.baseurl}}/">{{ site.title }}</a>
-
-    <ul class="pull-right">
-        {% for x in site.navbar %}
-        <li class="pull-left">
-            {% if x.absolute-link %}
-                {% assign x-url = x.absolute-link %}
-            {% else %}
-                {% assign x-url = site.url | append: site.baseurl | append: "/" | append: x.link %}
-            {% endif %}
-            <a href="{{ x-url }}">{{ x.name }}</a>
-            {% if forloop.last == false %}/{% endif %}
-        </li>
-        {% endfor %}
-    </ul>
-
-    <hr>
-</div>
+<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #1b2836;">
+    <!-- AB0202 -->
+    <div class="container">
+        <a class="navbar-brand" href={{ site.url }}>Rahul Bothra</a>
+        <div class="collapse navbar-collapse">
+            <ul class="navbar-nav ml-auto">
+                <!-- <li class="nav-item mr-2">
+                    <a class="nav-link active" href="notes">Notes</a>
+                </li>
+                <li class="nav-item mr-2">
+                    <a class="nav-link active" href="projects">Projects</a>
+                </li> -->
+                <li class="nav-item">
+                    <a class="nav-link active" href="CV.pdf">CV</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>

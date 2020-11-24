@@ -2,19 +2,28 @@
 layout: default
 ---
 
-<br>
-{% assign has_post = false %}
-{% for post in site.posts %}
-    {% if post.private == true %}
-        {% continue %}
-    {% endif %}
-    <div class="post-date"><b>{{ post.date | date: "%d-%m-%Y" }}</b></div>
-    <a href="{{site.baseurl}}{{ post.url }}" class="post-title">
-        {{ post.title }}
-    </a>
-    <br>
-    {% assign has_post = true %}
-{% endfor %}
-{% if has_post == false %}
-    <div class="no-post">I've lost the ink pot. Check back later...</div>
-{% endif %}
+<div class="row mb-5">
+    <div class="col ml-5 align-self-center">
+        <strong style="font-size: x-large;">Rahul Bothra</strong><br>
+        <span style="font-weight: lighter;">
+            Research Fellow<br>
+            Microsoft Research, India<br>
+        </span>
+        <a href="mailto:Rahul.Bothra@microsoft.com">Rahul.Bothra@microsoft.com</a>
+    </div>
+    <div class="col-md-auto">
+        <img src="assets/profile.jpg" style="max-width: 200px; border-width: 5px; border-style: solid; border-color: #1b2836;" class="rounded-circle float-right">
+    </div>
+</div>
+<!-- I am working as a Research Fellow with the Systems for AI group at Microsoft Research, India. I am also collaborating with Raj Joshi and Dr. Ben Leong from NUS on studying Congestion Control.
+Prior to this, I have worked as a Software Engineer with Microsoft. I received my B.E. (2020) from BITS Pilani. -->
+<br><br>
+<span style="font-weight: 600;">I am excited about making Systems and Networks faster, fairer, and robust.</span>
+<br><br>
+
+<!-- Some other projects that I have worked on,
+ * Hyperloop India - Building the pod for SpaceX Global Challenge Finals
+ * p4-traffictool
+ * Sugar Labs
+ * Finding efficient heuristic solutions to mCluTOP
+ * Designing object-aware variation of the Seam Carving algorithm -->

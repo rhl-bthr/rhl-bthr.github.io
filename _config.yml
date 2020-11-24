@@ -1,4 +1,4 @@
-title: The Skipped Breakpoint
+title: Rahul Bothra
 author: Rahul Bothra
 
 url: "https://pro-panda.github.io"
@@ -10,11 +10,3 @@ permalink: /:year-:month-:day-:title/
 sass:
     style: compressed
     sass_dir: css
-
-navbar:
- - name: "About"
-   link: "about"
- - name: "Resume"
-   link: "resume.pdf"
-#  - name: "CV"
-#    link: "CV.pdf"
