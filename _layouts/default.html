@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+    {% include navbar.html %}
+    <div class="container pt-5">
+        {% if page.title %}
+            <div class="mb-5 text-center">
+                <h3><strong>{{page.title}}</strong></h3>
+            </div>
+        {% endif %}
+        {{ content }}
+    </div>
+</body>

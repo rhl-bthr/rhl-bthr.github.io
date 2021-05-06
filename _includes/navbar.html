@@ -1,0 +1,23 @@
+<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #1b2836;">
+    <div class="container">
+        <a class="navbar-brand" href={{ site.url }}>Rahul Bothra</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#togglerContent" aria-controls="togglerContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="togglerContent">
+            <ul class="navbar-nav ml-auto">
+                {% for x in site.navbar %}
+                    <li class="nav-item mr-2">
+                    {% if x.absolute-link %}
+                        {% assign x-url = x.absolute-link %}
+                    {% else %}
+                        {% assign x-url = site.url | append: site.baseurl | append: "/" | append: x.link %}
+                    {% endif %}
+                    <a class="nav-link active" href="{{ x-url }}">{{ x.name }}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</nav>

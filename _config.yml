@@ -1,0 +1,20 @@
+title: Rahul Bothra
+author: Rahul Bothra
+
+url: "https://rahul-bothra.github.io"
+baseurl: ""
+
+favicon_location: assets/favicon.ico
+
+permalink: /:year-:month-:day-:title/
+sass:
+    style: compressed
+    sass_dir: css
+
+navbar:
+ - name: "WeRP"
+   link: "werp"
+ - name: "Twitter"
+   absolute-link: "https://twitter.com/rahul__bothra"
+ - name: "CV"
+   link: "cv.pdf"
