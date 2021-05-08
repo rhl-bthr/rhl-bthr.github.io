@@ -7,10 +7,12 @@
     {% include navbar.html %}
     <div class="container pt-5">
         {% if page.title %}
-            <div class="mb-5 text-center">
+            <div class="mb-4 mt-3 text-center">
                 <h3><strong>{{page.title}}</strong></h3>
             </div>
         {% endif %}
-        {{ content }}
+        <div class="pt-2">
+            {{ content }}
+        </div>
     </div>
 </body>
