@@ -12,8 +12,6 @@ sass:
     sass_dir: css
 
 navbar:
- - name: "WeRP"
-   link: "werp"
  - name: "Twitter"
    absolute-link: "https://twitter.com/rahul__bothra"
  - name: "CV"
