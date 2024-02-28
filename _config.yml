@@ -12,7 +12,11 @@ sass:
     sass_dir: css
 
 navbar:
- - name: "Twitter"
+ - name: "about"
+   link: ""
+ - name: "scholar"
+   absolute-link: "https://scholar.google.com/citations?user=eBvR7qAAAAAJ&hl=en&oi=sra"
+ - name: "twitter"
    absolute-link: "https://twitter.com/rahul__bothra"
- - name: "CV"
+ - name: "cv"
    link: "cv.pdf"
