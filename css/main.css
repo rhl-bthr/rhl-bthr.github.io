@@ -4,8 +4,12 @@
     }
 }
 
-body{
+head{
     font-family: "Fira Sans", 'Open Sans', sans-serif;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
 }
 
 .paragraph{
