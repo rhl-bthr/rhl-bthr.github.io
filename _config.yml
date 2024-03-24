@@ -16,7 +16,5 @@ navbar:
    link: ""
  - name: "scholar"
    absolute-link: "https://scholar.google.com/citations?user=eBvR7qAAAAAJ&hl=en&oi=sra"
- - name: "twitter"
-   absolute-link: "https://twitter.com/rahul__bothra"
  - name: "cv"
    link: "cv.pdf"

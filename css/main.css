@@ -4,13 +4,17 @@
     }
 }
 
-head{
-    font-family: "Fira Sans", 'Open Sans', sans-serif;
-}
 
 body{
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Segoe UI", 'Open Sans', sans-serif;
 }
+
+
+
+nav{
+    font-family: "Fira Sans", "Segoe UI", "Open Sans", sans-serif;
+}
+
 
 .paragraph{
     margin-top: 1em;
