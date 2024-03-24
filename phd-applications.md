@@ -1,9 +1,9 @@
 ---
-layout: default
-title: "PhD Applications Experience"
+layout: post
+title: "PhD applications inputs"
 ---
 
-I applied to 10 schools, interviewed with 8, and got admission offers from 5. I decided to go to UIUC. I got great inputs from my peers and mentors on my application. I've tried to summarize my experience and the advice I received.
+I applied to 10 schools, interviewed with 8, and got admission offers from 5. I decided to go to UIUC. My advisors and colleagues gave a lot of useful inputs on my application that I've tried to summarize here.
 
 ### Proficiency Tests
 All US schools ask for TOEFL scores. A handful of them also ask for GRE scores. Typically, these scores don't matter beyond a certain cut-off. GRE Verbal takes about ~2 weeks to prepare. TOEFL, if given after GRE should take ~2 days to prepare. It's a good idea to be done with these tests in advance (I completed them by 30th September).
