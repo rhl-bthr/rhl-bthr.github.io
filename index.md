@@ -21,7 +21,7 @@ Write up in progress.
 ---
 
 ##### News
-Mar 2024: I will be spending the summer at Stanford, working with Prof. Balaji Prabhakar on [Clockwork.io](https://www.clockwork.io/about-us/).<br>
+Mar 2024: I will be spending the summer at [Clockwork.io](https://www.clockwork.io/about-us/).<br>
 Feb 2024: Presented _FaultFerence_ to Google, Microsoft, Meta, and IBM.<br>
 Nov 2023: I will be giving a talk at MIT about _Rethinking network measurements from a user perspective_ during ACM HotNets.<br>
 Sep 2023: I will be giving a talk at Columbia University about _Switchboard_ during ACM SIGCOMM.<br>
