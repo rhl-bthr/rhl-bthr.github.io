@@ -25,6 +25,8 @@ I plan to dedicate time on a [_best-effort_](https://en.wikipedia.org/wiki/Best-
 1. Using chopsticks to eat rice.
 2. Playing [Another Love](https://www.youtube.com/watch?v=uqkMbalm_5Q) on the Piano.
 3. How to pick a lock.
-4. Driving in the US.
+4. Driving on US highways.
 5. Whistling fluently.
-6. Counting upto 50 in 50 languages.
+6. Counting upto 20 in 20 languages.
+7. Doing hula hoops.
+

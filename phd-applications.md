@@ -3,7 +3,7 @@ layout: post
 title: "PhD applications inputs"
 ---
 
-I applied to 10 schools, interviewed with 8, and got admission offers from 5. I decided to go to UIUC. My advisors and colleagues gave a lot of useful inputs on my application that I've tried to summarize here.
+I applied to 10 schools, interviewed with 8, and got offers from 5. I decided to go to UIUC. My advisors and colleagues gave a lot of useful inputs on my application that I've tried to summarize here.
 
 ### Proficiency Tests
 All US schools ask for TOEFL scores. A handful of them also ask for GRE scores. Typically, these scores don't matter beyond a certain cut-off. GRE Verbal takes about ~2 weeks to prepare. TOEFL, if given after GRE should take ~2 days to prepare. It's a good idea to be done with these tests in advance (I completed them by 30th September).
@@ -19,8 +19,7 @@ I looked at [csrankings](https://csrankings.org) for schools with a strong Syste
 The goal of the SOP is to help the professor evaluate if you'll succeed as a PhD student. Read your SOP as to how each sentence helps professors gauge that. 
 For example, I would get tempted to explain my projects in detail, because I wanted to highlight the effort that went into them. I received feedback from my mentors that goal of this section should only be to highlight the technical/non-technical skills learnt from working on those projects, and not the project details themselves.
 
-Try to keep the SOP short. Professors have a finite amount of time to go through each application, and you shouldn't dilute your SOP with too much content. Thankfully, I had the attention span of a 2-year old, so my thumb rule was to cut down on text till I could read it in one go. A good question to ask yourself is - _Will the professor really care about this sentence?_
-
+Try to keep the SOP short. Professors have limited time to go through each application, and you shouldn't dilute your SOP with too much content. Thankfully, I have the attention span of a 2-year old, so my thumb rule was to cut down on text till I could read it in one go. A good question to ask yourself is - _Will the professor really care about this sentence?_
 
 Aditya Chetan (PhD student at Cornell) has written an amazing, and more detailed, [SOP guide](https://justachetan.github.io/blog/2022/grad-school-apps/).
 
