@@ -3,9 +3,9 @@ layout: post
 title: Jack of no trades, master of none
 ---
 
-I generally get awkward around new people, which made fitting into grad school pretty challenging. I decided to find more hobbies, and compiled some _random interesting things_ which can be learned to an intermediate level in 2-4 weeks. 
+Fitting into grad school was hard - and I wanted to pick up new hobbies. I compiled some _random interesting skills_ which can be learned to an intermediate level in 2-4 weeks. 
 
-I plan to dedicate time on a [_best-effort_](https://en.wikipedia.org/wiki/Best-effort_delivery) basis. Here's how the progress has been so far.
+I dedicate time on a [_best-effort_](https://en.wikipedia.org/wiki/Best-effort_delivery) basis. Here's how the progress has been so far.
 
 ##### Currently learning
 1. Swimming.

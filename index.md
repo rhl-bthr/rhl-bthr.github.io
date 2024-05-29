@@ -11,7 +11,7 @@ I am working with Prof. Brighten Godfrey to effeciently localize grey failures i
 ##### Random
 I like to work out, play chess, and go for runs. I dedicate some time to [_learn random things_](jack-of-no-trades).
 
-I am trying to [support Jaipur Foot](25-birthday-pledge), an NGO aiming to help people with limb-related disabilities - please consider contributing.
+I am trying to [support Jaipur Foot](birthday-pledge), an NGO aiming to help people with limb-related disabilities - please consider contributing.
 
 ---
 
@@ -30,5 +30,5 @@ Mar 2023: I will be joining the UIUC Computer Science PhD program.<br>
 ---
 
 ##### Credits
-My parents made many sacrifices to support my academic and personal decisions. My advisors gave me opportunities to grow, and patiently steered me in the right directions. For who I am and what I have to offer, I owe it all to them.
+My parents have made many sacrifices to support me. My advisors gave me the right environment and guidance to grow. For who I am and what I have to offer, I owe it all to them.
 
