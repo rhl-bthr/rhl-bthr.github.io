@@ -3,24 +3,21 @@ layout: default
 ---
 
 ##### Bio
-I am working with Prof. Brighten Godfrey on two broad areas - a) making WAN Traffic Engineering more scalable, and b) using formal reasoning to design networks. Previously, I worked at Microsoft Research on improving resource utilization for Microsoft Teams, which reduced their operational costs by ~$10M per year.
-<br>Here is my [academic ancestry](academic-ancestry).
+I am working with Prof. Brighten Godfrey on decentralized WAN Traffic Engineering. Before that, I spent a few years with the Networks Group at Microsoft Research. Here is my [academic ancestry](academic-ancestry).
 
----
-
-##### Random
-I like to play chess and go for runs. I dedicate some time to [_learn random things_](jack-of-no-trades). I am trying to [support Jaipur Foot](birthday-pledge), a charity that helps people with limb-related disabilities - please consider contributing.
+I dedicate some time to [_learn random things_](jack-of-no-trades). I am trying to [support Jaipur Foot](birthday-pledge), a charity that helps people with limb-related disabilities - please consider contributing.
 
 ---
 
 ##### News
-Sep 2024: Our work on "Lightweight Automated Reasoning for Network Architectures" will appear in ACM HotNets 2024.<br>
-Aug 2024: Our work on "Detecting and Recovering from Network Failures" has been filed for a patent.<br>
-Mar 2024: I will be spending the summer at [Clockwork.io](https://www.clockwork.io/about-us/).<br>
-Feb 2024: Presenting _FaultFerence_ to various groups at Google, Microsoft, and Meta.<br>
-Nov 2023: Presenting _Rethinking network measurements_ during ACM HotNets 2023 at MIT.<br>
-Sep 2023: Presenting _Switchboard_ during ACM SIGCOMM 2023 at Columbia University.<br>
-Mar 2023: I will be joining the UIUC Computer Science PhD program.<br>
+Nov 2024: Passed the PhD Qualifying Exam at UIUC.<br>
+Sep 2024: Presented "Lightweight Automated Reasoning for Network Architectures" at ACM HotNets.<br>
+Aug 2024: Filed the patent "Detecting and Recovering from Network Failures".<br>
+May 2024: Spending the summer at [Clockwork.io](https://www.clockwork.io/about-us/).<br>
+Feb 2024: Presented _FaultFerence_ to research groups at Google, Microsoft, and Meta.<br>
+Nov 2023: Presented "User-centric network measurements" at ACM HotNets 2023.<br>
+Sep 2023: Presented "Switchboard" at ACM SIGCOMM 2023.<br>
+Sep 2023: Joined the UIUC Computer Science PhD program.<br>
 
 ---
 
