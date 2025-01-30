@@ -24,5 +24,5 @@ title: Academic Ancestry
 6.	Ercole Bottani, Ph.D., Politecnico di Milano, 1922<br>
     _Dissertation: ??_
 
-7.	Angelo Barbagelata, ??<br>
-    _Dissertation: ??_
+7.	Angelo Barbagelata<br>
+    _Dissertation: NA_
