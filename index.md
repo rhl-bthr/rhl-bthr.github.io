@@ -10,7 +10,7 @@ I dedicate some time to [_learn random things_](jack-of-no-trades). I am trying 
 ---
 
 ##### News
-Feb 2025: Will be spending the summer with the Networking Team at Google. <br>
+Feb 2025: Will be spending the summer with the Systems Research Group at Google. <br>
 Nov 2024: Passed the PhD Qualifying Exam at UIUC.<br>
 Sep 2024: Archie accepted at ACM HotNets 2024.<br>
 Aug 2024: Filed patent for "Detecting and Recovering from Network Failures".<br>
