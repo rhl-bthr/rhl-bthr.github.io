@@ -8,18 +8,14 @@ Fitting into grad school was hard - and I wanted to pick up new hobbies. I compi
 I dedicate time on a [_best-effort_](https://en.wikipedia.org/wiki/Best-effort_delivery) basis. Here's how the progress has been so far.
 
 ##### Done
-* Nov 2023: Revised Chemistry 101 from undergrad.
-* Dec 2023: Learnt conversational Spanish. (Update: I have been told my Spanish is abysmal.)
 * Feb 2024: Learnt solving Rubik's cube in 30 seconds - PR 25.65 seconds (28.13, averaged over 10 attempts).
 * Mar 2024: How to moonwalk.
-* Mar 2024: Conversational ASL.
 * Apr 2024: Learning how to tie different kinds of ties.
 * May 2024: Counting upto 20 in 20 languages.
 * Jun 2024: Baking a pizza from scratch.
 * Sep 2024: Doing hula hoops.
 * Oct 2024: Using chopsticks to eat rice.
 * Nov 2024: How to pick a lock. 
-* Dec 2024: Learnt writing in Hangeul script (Korean).
 * Jan 2024: Juggling 3 balls.
 
 ##### To-do
