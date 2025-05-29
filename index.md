@@ -10,6 +10,7 @@ I dedicate some time to [_learn random things_](jack-of-no-trades). I am trying 
 ---
 
 ##### News
+May 2025: Received the C.L. and Jane Liu award.<br>
 Feb 2025: Will be spending the summer with the Systems Research Group at Google. <br>
 Nov 2024: Passed the PhD Qualifying Exam at UIUC.<br>
 Sep 2024: Archie accepted at ACM HotNets 2024.<br>
