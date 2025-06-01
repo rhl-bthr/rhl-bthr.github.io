@@ -16,10 +16,14 @@ I dedicate time on a [_best-effort_](https://en.wikipedia.org/wiki/Best-effort_d
 * Sep 2024: Doing hula hoops.
 * Oct 2024: Using chopsticks to eat rice.
 * Nov 2024: How to pick a lock. 
-* Jan 2024: Juggling 3 balls.
+* Dec 2024: Learnt basics of writing in Hangeul script (Korean).
+* Jan 2025: Juggling 3 balls.
+* Feb 2025: Driving on US Interstates.
+
+##### In progress
+* Learning conversational Mandarin.
+* Learning how to swim.
 
 ##### To-do
 1. Playing [Another Love](https://www.youtube.com/watch?v=uqkMbalm_5Q) on the Piano.
-2. Driving on US highways.
-3. Whistling fluently.
-4. Swimming.
+2. Whistling fluently.
