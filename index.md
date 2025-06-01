@@ -5,12 +5,12 @@ layout: default
 ##### Bio
 I am working with Prof. Brighten Godfrey on decentralized WAN Traffic Engineering. Before that, I spent a few years with the Networks Group at Microsoft Research. Here is my [academic ancestry](academic-ancestry).
 
-I dedicate some time to [_learn random things_](jack-of-no-trades). I am trying to [support Jaipur Foot](birthday-pledge), a charity that helps people with limb-related disabilities - please consider contributing.
+More recently, I have started to play chess semi-professionally. I also dedicate some time to [_learn random things_](jack-of-no-trades). I am trying to [support Jaipur Foot](jaipur-foot), a charity that helps people with limb-related disabilities - please consider contributing.
 
 ---
 
 ##### News
-May 2025: Received the C.L. and Jane Liu award.<br>
+May 2025: Received the C.L. and Jane W.-S. Liu award for exceptional research promise during graduate studies.<br>
 Feb 2025: Will be spending the summer with the Systems Research Group at Google. <br>
 Nov 2024: Passed the PhD Qualifying Exam at UIUC.<br>
 Sep 2024: Archie accepted at ACM HotNets 2024.<br>
