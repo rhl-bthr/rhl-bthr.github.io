@@ -11,12 +11,11 @@ I dedicate time on a [_best-effort_](https://en.wikipedia.org/wiki/Best-effort_d
 * Feb 2024: Learnt solving Rubik's cube in 30 seconds - PR 25.65 seconds (28.13, averaged over 10 attempts).
 * Mar 2024: How to moonwalk.
 * Apr 2024: Learning how to tie different kinds of ties.
-* May 2024: Counting upto 20 in 20 languages.
+* May 2024: Counting till 20 in 20 languages.
 * Jun 2024: Baking a pizza from scratch.
 * Sep 2024: Doing hula hoops.
 * Oct 2024: Using chopsticks to eat rice.
 * Nov 2024: How to pick a lock. 
-* Dec 2024: Learnt basics of writing in Hangeul script (Korean).
 * Jan 2025: Juggling 3 balls.
 * Feb 2025: Driving on US Interstates.
 
