@@ -3,9 +3,9 @@ layout: default
 ---
 
 ##### Bio
-I work with Prof. Brighten Godfrey on a) making networks more resilient, and b) large-scale resource optimization problems. Before that, I spent a few years with the Networks Group at Microsoft Research. Here is my [academic ancestry](academic-ancestry).
+I work on a) making networks more resilient, and b) large-scale resource optimization problems. Before that, I spent a few years with the Networks Group at Microsoft Research. Here is my [academic ancestry](academic-ancestry).
 
-More recently, I have started to play chess semi-professionally. I try to [_learn random things_](jack-of-no-trades) when I'm free. I am trying to [support Jaipur Foot](jaipur-foot) - they are a non-profit that helps people with limb-related disabilities. Please consider contributing.
+I am trying to [support Jaipur Foot](jaipur-foot) - they are a non-profit that helps people with limb-related disabilities. Please consider contributing.
 
 ---
 
