@@ -3,9 +3,9 @@ layout: post
 title: Jack of no trades, master of none
 ---
 
-Fitting into grad school was hard - and I wanted to pick up new hobbies. I compiled some _random interesting skills_ which can be learned to an intermediate level in 2-4 weeks. 
+Fitting into grad school was a little tricky at the beginning, and I wanted to pick up new hobbies. I compiled some _random interesting skills_ which can be learned to an intermediate level in 2-4 weeks. 
 
-I dedicate time on a [_best-effort_](https://en.wikipedia.org/wiki/Best-effort_delivery) basis. Here's how the progress has been so far.
+I dedicate time on a [_best-effort_](https://en.wikipedia.org/wiki/Best-effort_delivery) basis, and record my progress here.
 
 ##### Done
 * Feb 2024: Learnt solving Rubik's cube in 30 seconds - PR 25.65 seconds (28.13, averaged over 10 attempts).
@@ -18,11 +18,12 @@ I dedicate time on a [_best-effort_](https://en.wikipedia.org/wiki/Best-effort_d
 * Nov 2024: How to pick a lock. 
 * Jan 2025: Juggling 3 balls.
 * Feb 2025: Driving on US Interstates.
+* Jun 2025: Learned playing tennis (NTRP 3).
+* Fall 2025: Exiled away in Berkeley.
+* Mar 2026: Learned playing _Nuvole Bianche_ on the Piano ([link to my recording](https://drive.google.com/file/d/15HEVyu0LBjN25e_8bLjBVFl2dC-vXEbF/view?usp=sharing)).
+
 
 ##### In progress
 * Learning conversational Mandarin.
 * Learning how to swim.
 
-##### To-do
-1. Playing [Another Love](https://www.youtube.com/watch?v=uqkMbalm_5Q) on the Piano.
-2. Whistling fluently.

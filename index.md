@@ -3,15 +3,18 @@ layout: default
 ---
 
 ##### Bio
-I work with Prof. Brighten Godfrey on a) making networks more resilient, and b) large-scale resource optimization problems. Before that, I spent a few years with the Networks Group at Microsoft Research. Here is my [academic ancestry](academic-ancestry).
+I work with Prof. Brighten Godfrey on a) making networks more resilient, and b) large-scale resource optimization problems. Prior to that, I spent a few years with the Networks Group at Microsoft Research, and my research is now used by Microsoft Teams. Here is a tree of my [academic ancestry](academic-ancestry).
 
-I am trying to [support Jaipur Foot](jaipur-foot) - they are a non-profit that helps people with limb-related disabilities. Please consider contributing.
+I run a [fundraiser for Jaipur Foot](jaipur-foot) - they are a non-profit that helps people with limb-related disabilities. Please consider contributing.
+
+In other times, I like to play chess and go for runs. I dedicate some time to learn these [_random interesting skills_](jack-of-no-trades).
 
 ---
 
 ##### News
+February 2026: Submitted Decomposed Traffic Engineering at ACM SIGCOMM 2026.<br> 
 May 2025: Received the C.L. and Jane W.-S. Liu award for exceptional research promise during graduate studies.<br>
-Feb 2025: Will be spending the summer with the Systems Research Group at Google. <br>
+Feb 2025: Joining the Systems Research Group at Google as a Student Researcher. <br>
 Nov 2024: Passed the PhD Qualifying Exam at UIUC.<br>
 Sep 2024: Archie accepted at ACM HotNets 2024.<br>
 Aug 2024: Filed patent for "Detecting and Recovering from Network Failures".<br>
